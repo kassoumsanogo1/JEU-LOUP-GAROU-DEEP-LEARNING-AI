@@ -1,0 +1,3 @@
+The following is a simulation of an AI group playing of the game One Night: Ultimate Werewolf. The different AI participants will try to convince each that they are NOT the werewolves and win the game.
+
+For this game, the following cards are in play:

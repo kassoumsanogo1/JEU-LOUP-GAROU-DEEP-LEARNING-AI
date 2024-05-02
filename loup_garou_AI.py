@@ -22,7 +22,7 @@ total_model_number = 5
 
 #Fonction globale pour regrouper nos modèles : 
 #Nous faisons jouer 5  modeles différents
-#En associant ces 5 modèles nous arrivons à avoir un modele fort et compact capable de 
+#En associant ces 5 modèles nous arrivons à avoir une modele fort et compact capable de 
 #Faire des choix parfaitement, de les comprendre, analyser et ainsi avoir un meilleur 
 #Experience de JEU.
 def query(payload):

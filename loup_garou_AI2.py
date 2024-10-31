@@ -9,7 +9,7 @@ from colorama import Fore, Style
 colorama.init()
 
 #Clé API à mettre, il faut recuperer les clés chez Mystral AI sur huggingface
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer ************************"}
 current_model_number = 0
 total_model_number = 5
 

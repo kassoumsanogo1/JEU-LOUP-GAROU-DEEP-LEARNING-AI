@@ -16,7 +16,7 @@ chemin_fichier_json = "historique.json"
 colorama.init()
 
 #Clé API à mettre
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer ************************"}
 current_model_number = 0
 total_model_number = 5
 

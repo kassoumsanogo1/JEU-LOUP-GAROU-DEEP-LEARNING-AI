@@ -9,7 +9,7 @@ from colorama import Fore, Style
 colorama.init()
 
 #Clé API à mettre
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer ************************"}
 current_model_number = 0
 total_model_number = 5
 
